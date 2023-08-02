@@ -16,6 +16,13 @@ This multifaceted project had several key components:
 
 This project underscored my proficiency in data warehousing and OLAP technologies, as well as my capabilities in data visualization using Microsoft Power BI. The resulting analytical system is an essential tool that provides a deep, insightful understanding of revenue trends in the Android applications market and facilitates data-driven decision-making.
 
+**Project Files:**
+
+- [Advanced_Revenue_Analysis_Pipeline_in_Android_Applications_Market_Detailed_Report.pdf](./Advanced_Revenue_Analysis_Pipeline_in_Android_Applications_Market_Detailed_Report.pdf): This comprehensive report provides in-depth information and a detailed analysis of the project. It offers insights into the design, execution, and outcomes of the data pipeline.
+
+- [Advanced_Revenue_Analysis_Pipeline_in_Android_Applications_Market_Project_Presentation.ppt](./Advanced_Revenue_Analysis_Pipeline_in_Android_Applications_Market_Project_Presentation.ppt): This PowerPoint presentation provides a high-level overview of the project. It is a useful tool for presenting key aspects and outcomes of the project in a condensed and visually appealing format.
+
+
 ### Contributors
 
 - [x] [Foteini Nefeli Nouskali](https://github.com/FoteiniNefeli)
